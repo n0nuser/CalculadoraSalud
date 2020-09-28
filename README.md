@@ -82,4 +82,4 @@ Y se abrirá una página web (localizada en la carpeta `output`) en el buscador 
 
 Esta página se genera a partir de Markdown a `html` con el CSS de [este](https://github.com/jasonm23/markdown-css-themes/blob/gh-pages/avenir-white.css) repositorio.
 
-El ejemplo de este punto está en la carpeta `exampleOutput`, con abrir el archivo `resumen.html` se puede ver el resultado de la ejecución del script.
+Un ejemplo está en la carpeta `docs`, con descargar la carpeta y abrir el archivo `resumen.html` se puede ver el resultado de la ejecución del script.
